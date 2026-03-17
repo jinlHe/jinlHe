@@ -1,29 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm jinlHe
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/jinlHe?label=Followers&style=social)](https://github.com/jinlHe)
-[![Profile Views](https://komarev.com/ghpvc/?username=jinlHe&color=blue&style=flat)](https://github.com/jinlHe)
 
 </div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 I'm currently working on exciting personal projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: check my GitHub profile
-- ⚡ Fun fact: I enjoy turning coffee into code ☕
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -47,14 +29,9 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinlHe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinlHe&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinlHe)
 
 </div>
 
@@ -64,35 +41,5 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinlHe&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jinlHe&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 A Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐️ From [jinlHe](https://github.com/jinlHe) — *Keep coding, keep growing!* 🚀
-
-</div>
