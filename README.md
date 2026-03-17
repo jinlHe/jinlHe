@@ -58,3 +58,8 @@
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar (full year)" />
 </p>
+
+<p align="center">
+  <img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="100%">
+</p>
+
