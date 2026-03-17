@@ -43,8 +43,8 @@
   
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinlHe" hedth="50%" />
-  <img src="https://streak-stats.demolab.com?user=jinlHe&theme=tokyonight&hide_border=true" hedth="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinlHe" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=jinlHe&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 
