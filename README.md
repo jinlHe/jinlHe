@@ -5,8 +5,6 @@
 <br/>
 
 
-![访客统计](https://komarev.com/ghpvc/?username=jinlHe&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
 <div align="center">
 <p>
   
@@ -36,23 +34,23 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
+![访客统计](https://komarev.com/ghpvc/?username=jinlHe&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinlHe" height="170" />
-  <img src="https://streak-stats.demolab.com?user=jinlHe&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
-
-![Metrics](/github-metrics.svg)
-
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar (full year)" />
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar (full year)" width="49%" />
+  <img src="/github-metrics.svg" alt="Metrics" width="49%" />
+  
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinlHe" height="190" />
+  <img src="https://streak-stats.demolab.com?user=jinlHe&theme=tokyonight&hide_border=true" height="190" />
+</div>
+
+
+
 
 <p align="center">
-  <img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="100%">
+  <img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="60%">
 </p>
 
